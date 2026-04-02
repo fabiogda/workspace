@@ -40,7 +40,7 @@ O objetivo é padronizar o ambiente de desenvolvimento com as melhores ferrament
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/fabiogda/workspace.git](https://github.com/fabiogda/workspace.git)
+   git clone https://github.com/fabiogda/workspace.git
    cd workspace
    ```
 
